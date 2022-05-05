@@ -1,4 +1,5 @@
 export const WORDS = [
+    'helen',
     'which',
     'there',
     'their',
